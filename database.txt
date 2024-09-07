@@ -10,6 +10,7 @@ brüderchen,das Brüderchen,le petit frère
 brüderlein, das Brüderlein -e, le petit frère
 brünnlein,der Brünnlein,la petite fontaine
 böse,böse,méchant
+dritten,der Dritte -n,le troisième
 durst,der Durst (Sg),la soif
 dürstet,dürsten dürstet dürstete hat gedürstet, avoir soif
 einschliefen,einschlafen schläft ein schlief ein ist eingeschlafen,s'endormir
@@ -22,10 +23,12 @@ frisst, fressen frisst fraß hat gefressen, manger (animal)
 fuß, der Fuß -"e,le pied
 füßen,der Fuß -"e,le pied
 geht,gehen geht ging ist gegangen,aller
+getrunken,trinken trinkt trank hat getrunken,boire
 ging, gehen geht ging ist gegangen, aller
 gingen,gehen geht ging ist gegangen,aller
 glitzerig,glitzerig,scintillant
 gott,der Gott "er,le dieu
+groß,groß,grand
 großen,groß,grand
 hand,die Hand ¨e,la main
 harten,hart,dur
@@ -35,6 +38,7 @@ herzen,das Herz -en,le coeur
 hexe,die Hexe -n,la sorcière
 hexen,die Hexe -n, la sorcière
 himmel,der Himmel -,le ciel
+hinabgebeugt,sich beugen beugt sich beugte sich hat sich gebeugt,se pencher
 hohlen,hohl,creux
 holen, holen holt holte hat geholt,aller chercher
 hunger,der Hunger,la faim
@@ -48,16 +52,21 @@ kamst, kommen kommt kam ist gekommen,venir
 kinder,das Kind -er,l'enfant
 komm,kommen kommt kam ist gekommen,venir
 langen, langen langt langte hat gelangt
+lippen, die Lippe -n, la lèvre
+läufst,laufen läuft lief ist gelaufen,marcher
 mutter,die Mutter ",la mère
 müde, müde, fatigué
 nachgeschlichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
+niedergekniet,niederknien kniet nieder kniete nieder hat niedergekniet,agenouiller
 nächsten,nächsten,le plus proche
 quelle,die Quelle -n,la source
 rauschen,rauschen rauscht rauschte hat gerauscht,grésiller
 regnete, regnen regnet regnete hat geregnet,pleuvoir
+reh,das Reh -e, le chevreuil
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
 schlägt,schlagen schlägt schlug hat geschlagen,frapper
 schwesterchen,das Schwesterchen,la petite soeur
+schwesterlein, das Schwesterlein -e,la petite soeur
 sonne,die Sonne -n,le soleil
 speise,die  Speise -n,le repas
 sprach,sprechen spricht sprach hat gesprochen,parler
@@ -78,11 +87,13 @@ trank,trinken trinkt trank hat getrunken,boire
 trink,trinken trinkt trank hat getrunken,boire
 trinken,trinken trinkt trank hat getrunken,boire
 trinkt,trinken trinkt trank hat getrunken,boire
+tropfen,tropfen tropft tropfte hat getropft, goutter
 tränk, trinken trinkt trank hat getrunken, boire
 verwünscht,verwünscht,maudit
 wald,der Wald "er, la forêt
 walde,der Wald "er,la forêt
 warten, warten wartet wartete hat gewartet, attendre
+wasser,das Wasser ",l'eau
 weinen,weinen weint weinte hat geweint,pleurer
 weite,die Weite -n,l'immensité
 welt,die Welt -en,le monde

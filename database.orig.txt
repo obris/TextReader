@@ -93,3 +93,14 @@ quelle,die Quelle -n,la source
 zweiten,der Zweite,le deuxième
 wolf,der Wolf ë,le loup
 frisst, fressen frisst fraß hat gefressen, manger (animal)
+groß,groß,grand
+dritten,der Dritte -n,le troisième
+schwesterlein, das Schwesterlein -e,la petite soeur
+reh,das Reh -e, le chevreuil
+läufst,laufen läuft lief ist gelaufen,marcher
+niedergekniet,niederknien kniet nieder kniete nieder hat niedergekniet,agenouiller
+hinabgebeugt,sich beugen beugt sich beugte sich hat sich gebeugt,se pencher
+wasser,das Wasser ",l'eau
+getrunken,trinken trinkt trank hat getrunken,boire
+tropfen,tropfen tropft tropfte hat getropft, goutter
+lippen, die Lippe -n, la lèvre
