@@ -84,4 +84,12 @@ brüderlein, das Brüderlein -e, le petit frère
 trink,trinken trinkt trank hat getrunken,boire
 wildes,wild,sauvage
 tier,das Tier -e,l'annimal
-zerreißest, zerreißen zerreißt zerriss hat zerrissen, déchirer
+zerreißest, zerreißen zerreißt zerriss hat zerrissen,déchirer
+trank,trinken trinkt trank hat getrunken,boire
+durst,der Durst (Sg),la soif
+warten, warten wartet wartete hat gewartet, attendre
+nächsten,nächsten,le plus proche
+quelle,die Quelle -n,la source
+zweiten,der Zweite,le deuxième
+wolf,der Wolf ë,le loup
+frisst, fressen frisst fraß hat gefressen, manger (animal)

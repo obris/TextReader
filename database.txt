@@ -10,6 +10,7 @@ brüderchen,das Brüderchen,le petit frère
 brüderlein, das Brüderlein -e, le petit frère
 brünnlein,der Brünnlein,la petite fontaine
 böse,böse,méchant
+durst,der Durst (Sg),la soif
 dürstet,dürsten dürstet dürstete hat gedürstet, avoir soif
 einschliefen,einschlafen schläft ein schlief ein ist eingeschlafen,s'endormir
 erbarm,sich erbarmen,se dévouer
@@ -17,6 +18,7 @@ fanden,finden findet fand hat gefunden,trouver
 feld,das Feld -er,le champ
 felder,das Feld -er,le champ
 fortgegangen,fortgehen geht fort ging fort ist fortgegangen,partir
+frisst, fressen frisst fraß hat gefressen, manger (animal)
 fuß, der Fuß -"e,le pied
 füßen,der Fuß -"e,le pied
 geht,gehen geht ging ist gegangen,aller
@@ -49,6 +51,8 @@ langen, langen langt langte hat gelangt
 mutter,die Mutter ",la mère
 müde, müde, fatigué
 nachgeschlichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
+nächsten,nächsten,le plus proche
+quelle,die Quelle -n,la source
 rauschen,rauschen rauscht rauschte hat gerauscht,grésiller
 regnete, regnen regnet regnete hat geregnet,pleuvoir
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
@@ -70,6 +74,7 @@ tier,das Tier -e,l'annimal
 tiger, der Tiger -, le tigre
 tisch,der Tisch -e,la table
 tot,tot,décédé
+trank,trinken trinkt trank hat getrunken,boire
 trink,trinken trinkt trank hat getrunken,boire
 trinken,trinken trinkt trank hat getrunken,boire
 trinkt,trinken trinkt trank hat getrunken,boire
@@ -77,11 +82,14 @@ tränk, trinken trinkt trank hat getrunken, boire
 verwünscht,verwünscht,maudit
 wald,der Wald "er, la forêt
 walde,der Wald "er,la forêt
+warten, warten wartet wartete hat gewartet, attendre
 weinen,weinen weint weinte hat geweint,pleurer
 weite,die Weite -n,l'immensité
 welt,die Welt -en,le monde
 wiesen,die Wiese -n,la prairie
 wildes,wild,sauvage
 wirft,werfen wirft warf hat geworfen,jeter
+wolf,der Wolf ë,le loup
 wüsste,wissen weiß wusste hat gewusst,savoir
-zerreißest, zerreißen zerreißt zerriss hat zerrissen, déchirer
+zerreißest, zerreißen zerreißt zerriss hat zerrissen,déchirer
+zweiten,der Zweite,le deuxième
