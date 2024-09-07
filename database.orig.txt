@@ -68,4 +68,8 @@ fortgegangen,fortgehen geht fort ging fort ist fortgegangen,partir
 nachgeschlichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
 himmel,der Himmel -,le ciel
+heimlich,heimlich,secret
+hexen,die Hexe -n, la sorcière
+brunnen, der Brunnen -, la fontaine
+walde,der Wald "er,la forêt
 
