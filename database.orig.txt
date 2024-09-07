@@ -1,6 +1,6 @@
-abends, abends,tous les soirs
-aufwachen, aufwachen wacht auf wachte auf ist aufgewacht, se réveiller
-baum, der Baum "e, l'arbre
+abends,abends,tous les soirs
+aufwachen,aufwachen wacht auf wachte auf ist aufgewacht, se réveiller
+baum,der Baum "e, l'arbre
 beissen,beißen beißt biss hat gebissen,mordre
 bissen,beißen beißt biss hat gebissen,mordre
 bißen,beißen beißt biss hat gebissen,mordre
@@ -10,7 +10,7 @@ einschliefen,einschlafen schläft ein schlief ein ist eingeschlafen,s'endormir
 erbarm,sich erbarmen,se dévouer
 feld,das Feld -er,le champ
 felder,das Feld -er,le champ
-fuß, der Fuß -"e,le pied
+fuß,der Fuß -"e,le pied
 füßen,der Fuß -"e,le pied
 geht,gehen geht ging ist gegangen,aller
 gingen,gehen geht ging ist gegangen,aller
@@ -20,22 +20,22 @@ hand,die Hand ¨e,la main
 harten,hart,dur
 herzen,das Herz -en,le coeur 
 hohlen,hohl,creux
-holen, holen holt holte hat geholt,aller chercher
+holen,holen holt holte hat geholt,aller chercher
 hunger,der Hunger,la faim
 hündlein,das Hündlein -,le petit chien
 jammer,der Jammer,le chagrin
-kam, kommen kommt kam ist gekommen,venir
-kamen, kommen kommt kam ist gekommen,venir
-kamst, kommen kommt kam ist gekommen,venir
+kam,kommen kommt kam ist gekommen,venir
+kamen,kommen kommt kam ist gekommen,venir
+kamst,kommen kommt kam ist gekommen,venir
 komm,kommen kommt kam ist gekommen,venir
-langen, langen langt langte hat gelangt
+langen,langen langt langte hat gelangt,suffire
 mutter,die Mutter ",la mère
-müde, müde, fatigué
-regnete, regnen regnet regnete hat geregnet,pleuvoir
+müde,müde,fatigué
+regnete,regnen regnet regnete hat geregnet,pleuvoir
 schlägt,schlagen schlägt schlug hat geschlagen,frapper
 schwesterchen,das Schwesterchen,la petite soeur
 sonne,die Sonne -n,le soleil
-speise,die  Speise -n,le repas
+speise,die Speise -n,le repas
 sprach,sprechen spricht sprach hat gesprochen,parler
 stand,stehen steht stand hat gestanden,se tenir debout
 stein,der Stein -e,la pierre
@@ -79,15 +79,15 @@ sprang,springen springt sprang ist gesprungen,sauter
 trinken,trinken trinkt trank hat getrunken,boire
 hörte,hören hört hörte hat gehört,entendre
 trinkt,trinken trinkt trank hat getrunken,boire
-tiger, der Tiger -,le tigre
-brüderlein, das Brüderlein -e,le petit frère
+tiger,der Tiger -,le tigre
+brüderlein,das Brüderlein -e,le petit frère
 trink,trinken trinkt trank hat getrunken,boire
 wildes,wild,sauvage
 tier,das Tier -e,l'annimal
-zerreißest, zerreißen zerreißt zerriss hat zerrissen,déchirer
+zerreißest,zerreißen zerreißt zerriss hat zerrissen,déchirer
 trank,trinken trinkt trank hat getrunken,boire
 durst,der Durst (Sg),la soif
-warten, warten wartet wartete hat gewartet,attendre
+warten,warten wartet wartete hat gewartet,attendre
 nächsten,nächsten,le plus proche
 quelle,die Quelle -n,la source
 zweiten,der Zweite -n,le deuxième
@@ -103,8 +103,8 @@ hinabgebeugt,sich beugen beugt sich beugte sich hat sich gebeugt,se pencher
 wasser,das Wasser ",l'eau
 getrunken,trinken trinkt trank hat getrunken,boire
 tropfen,tropfen tropft tropfte hat getropft,goutter
-lippen, die Lippe -n,la lèvre
-rehkälbchen, das Rehkälbchen -,le faon
+lippen,die Lippe -n,la lèvre
+rehkälbchen,das Rehkälbchen -,le faon
 weinte,weinen weint weinte hat geweint,pleurer
 arme,arm,pauvre
 verwünschte,verwünscht,maudit

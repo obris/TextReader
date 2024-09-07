@@ -1,14 +1,14 @@
-abends, abends,tous les soirs
+abends,abends,tous les soirs
 arme,arm,pauvre
-aufwachen, aufwachen wacht auf wachte auf ist aufgewacht, se réveiller
-baum, der Baum "e, l'arbre
+aufwachen,aufwachen wacht auf wachte auf ist aufgewacht, se réveiller
+baum,der Baum "e, l'arbre
 beissen,beißen beißt biss hat gebissen,mordre
 bissen,beißen beißt biss hat gebissen,mordre
 bißen,beißen beißt biss hat gebissen,mordre
 brotkrusten,die Brotkruste -n,la croûte de pain
 brunnen,der Brunnen -,la fontaine
 brüderchen,das Brüderchen,le petit frère
-brüderlein, das Brüderlein -e,le petit frère
+brüderlein,das Brüderlein -e,le petit frère
 brünnlein,der Brünnlein,la petite fontaine
 böse,böse,méchant
 dritten,der Dritte -n,le troisième
@@ -22,7 +22,7 @@ feld,das Feld -er,le champ
 felder,das Feld -er,le champ
 fortgegangen,fortgehen geht fort ging fort ist fortgegangen,partir
 frisst,fressen frisst fraß hat gefressen,manger (animal)
-fuß, der Fuß -"e,le pied
+fuß,der Fuß -"e,le pied
 füßen,der Fuß -"e,le pied
 geht,gehen geht ging ist gegangen,aller
 getrunken,trinken trinkt trank hat getrunken,boire
@@ -44,34 +44,34 @@ hexen,die Hexe -n,la sorcière
 himmel,der Himmel -,le ciel
 hinabgebeugt,sich beugen beugt sich beugte sich hat sich gebeugt,se pencher
 hohlen,hohl,creux
-holen, holen holt holte hat geholt,aller chercher
+holen,holen holt holte hat geholt,aller chercher
 hunger,der Hunger,la faim
 hört,hören hört hörte hat gehört,entendre
 hörte,hören hört hörte hat gehört,entendre
 hündlein,das Hündlein -,le petit chien
 jammer,der Jammer,le chagrin
-kam, kommen kommt kam ist gekommen,venir
-kamen, kommen kommt kam ist gekommen,venir
-kamst, kommen kommt kam ist gekommen,venir
+kam,kommen kommt kam ist gekommen,venir
+kamen,kommen kommt kam ist gekommen,venir
+kamst,kommen kommt kam ist gekommen,venir
 kinder,das Kind -er,l'enfant
 komm,kommen kommt kam ist gekommen,venir
-langen, langen langt langte hat gelangt
+langen,langen langt langte hat gelangt,suffire
 liebes,lieb,gentil
-lippen, die Lippe -n,la lèvre
+lippen,die Lippe -n,la lèvre
 läufst,laufen läuft lief ist gelaufen,marcher
 mutter,die Mutter ",la mère
 mädchen,das Mädchen -,la fille
-müde, müde, fatigué
+müde,müde,fatigué
 nachgeschlichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
 niedergekniet,niederknien kniet nieder kniete nieder hat niedergekniet,agenouiller
 nimmermehr,nimmermehr,plus jamais
 nächsten,nächsten,le plus proche
 quelle,die Quelle -n,la source
 rauschen,rauschen rauscht rauschte hat gerauscht,grésiller
-regnete, regnen regnet regnete hat geregnet,pleuvoir
+regnete,regnen regnet regnete hat geregnet,pleuvoir
 reh,das Reh -e,le chevreuil
 rehchen, das Rehchen -,le faon
-rehkälbchen, das Rehkälbchen -,le faon
+rehkälbchen,das Rehkälbchen -,le faon
 rupfte,rupften rupft rupfte hat gerupft, plumer
 saß,sitzen sitzt saß hat gesessen,être assis
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
@@ -79,7 +79,7 @@ schlägt,schlagen schlägt schlug hat geschlagen,frapper
 schwesterchen,das Schwesterchen,la petite soeur
 schwesterlein,das Schwesterlein -e,la petite soeur
 sonne,die Sonne -n,le soleil
-speise,die  Speise -n,le repas
+speise,die Speise -n,le repas
 sprach,sprechen spricht sprach hat gesprochen,parler
 sprang,springen springt sprang ist gesprungen,sauter
 stand,stehen steht stand hat gestanden,se tenir debout
@@ -93,7 +93,7 @@ stößt,stossen stößt stieß hat gestoßen,pousser
 tag,der Tag -e,la journée
 tage,der Tag -e,la journée
 tier,das Tier -e,l'annimal
-tiger, der Tiger -,le tigre
+tiger,der Tiger -,le tigre
 tisch,der Tisch -e,la table
 tot,tot,décédé
 trank,trinken trinkt trank hat getrunken,boire
@@ -108,7 +108,7 @@ verwünscht,verwünscht,maudit
 verwünschte,verwünscht,maudit
 wald,der Wald "er,la forêt
 walde,der Wald "er,la forêt
-warten, warten wartet wartete hat gewartet,attendre
+warten,warten wartet wartete hat gewartet,attendre
 wasser,das Wasser ",l'eau
 weinen,weinen weint weinte hat geweint,pleurer
 weinte,weinen weint weinte hat geweint,pleurer
@@ -119,5 +119,5 @@ wildes,wild,sauvage
 wirft,werfen wirft warf hat geworfen,jeter
 wolf,der Wolf ë,le loup
 wüsste,wissen weiß wusste hat gewusst,savoir
-zerreißest, zerreißen zerreißt zerriss hat zerrissen,déchirer
+zerreißest,zerreißen zerreißt zerriss hat zerrissen,déchirer
 zweiten,der Zweite -n,le deuxième
