@@ -47,7 +47,7 @@ tag,der Tag -e,la journée
 tage,der Tag -e,la journée
 tisch,der Tisch -e,la table
 tot,tot,décédé
-wald,der Wald "er, la forêt
+wald,der Wald "er,la forêt
 weinen,weinen weint weinte hat geweint,pleurer
 weite,die Weite -n,l'immensité
 welt,die Welt -en,le monde
@@ -55,10 +55,10 @@ wiesen,die Wiese -n,la prairie
 wirft,werfen wirft warf hat geworfen,jeter
 wüsste,wissen weiß wusste hat gewusst,savoir
 heiß,heiß,chaud
-dürstet,dürsten dürstet dürstete hat gedürstet, avoir soif
+dürstet,dürsten dürstet dürstete hat gedürstet,avoir soif
 brünnlein,der Brünnlein,la petite fontaine
-ging, gehen geht ging ist gegangen, aller
-tränk, trinken trinkt trank hat getrunken, boire
+ging,gehen geht ging ist gegangen,aller
+tränk,trinken trinkt trank hat getrunken,boire
 hört,hören hört hörte hat gehört,entendre
 rauschen,rauschen rauscht rauschte hat gerauscht,grésiller
 böse,böse,méchant
@@ -69,38 +69,55 @@ nachgeschlichen,schleichen schleicht schlich ist geschlichen,se déplacer furtiv
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
 himmel,der Himmel -,le ciel
 heimlich,heimlich,secret
-hexen,die Hexe -n, la sorcière
-brunnen, der Brunnen -, la fontaine
+hexen,die Hexe -n,la sorcière
+brunnen,der Brunnen -,la fontaine
 walde,der Wald "er,la forêt
 verwünscht,verwünscht,maudit
 fanden,finden findet fand hat gefunden,trouver
 glitzerig,glitzerig,scintillant
 sprang,springen springt sprang ist gesprungen,sauter
 trinken,trinken trinkt trank hat getrunken,boire
-hörte,hören hört hörte hat gehört, entendre
+hörte,hören hört hörte hat gehört,entendre
 trinkt,trinken trinkt trank hat getrunken,boire
-tiger, der Tiger -, le tigre
-brüderlein, das Brüderlein -e, le petit frère
+tiger, der Tiger -,le tigre
+brüderlein, das Brüderlein -e,le petit frère
 trink,trinken trinkt trank hat getrunken,boire
 wildes,wild,sauvage
 tier,das Tier -e,l'annimal
 zerreißest, zerreißen zerreißt zerriss hat zerrissen,déchirer
 trank,trinken trinkt trank hat getrunken,boire
 durst,der Durst (Sg),la soif
-warten, warten wartet wartete hat gewartet, attendre
+warten, warten wartet wartete hat gewartet,attendre
 nächsten,nächsten,le plus proche
 quelle,die Quelle -n,la source
-zweiten,der Zweite,le deuxième
+zweiten,der Zweite -n,le deuxième
 wolf,der Wolf ë,le loup
-frisst, fressen frisst fraß hat gefressen, manger (animal)
+frisst,fressen frisst fraß hat gefressen,manger (animal)
 groß,groß,grand
 dritten,der Dritte -n,le troisième
-schwesterlein, das Schwesterlein -e,la petite soeur
-reh,das Reh -e, le chevreuil
+schwesterlein,das Schwesterlein -e,la petite soeur
+reh,das Reh -e,le chevreuil
 läufst,laufen läuft lief ist gelaufen,marcher
 niedergekniet,niederknien kniet nieder kniete nieder hat niedergekniet,agenouiller
 hinabgebeugt,sich beugen beugt sich beugte sich hat sich gebeugt,se pencher
 wasser,das Wasser ",l'eau
 getrunken,trinken trinkt trank hat getrunken,boire
-tropfen,tropfen tropft tropfte hat getropft, goutter
-lippen, die Lippe -n, la lèvre
+tropfen,tropfen tropft tropfte hat getropft,goutter
+lippen, die Lippe -n,la lèvre
+rehkälbchen, das Rehkälbchen -,le faon
+weinte,weinen weint weinte hat geweint,pleurer
+arme,arm,pauvre
+verwünschte,verwünscht,maudit
+rehchen, das Rehchen -,le faon
+saß,sitzen sitzt saß hat gesessen,être assis
+traurig,traurig,triste
+mädchen,das Mädchen -,la fille
+endlich,endlich,finalement
+still,still,calme
+liebes,lieb,gentil
+nimmermehr,nimmermehr,plus jamais
+verlassen, verlassen verlässt verließ hat verlassen,quitter
+goldenes,golden,en or
+strumpfband,das Strumpfband "er,la jarretière
+hals,der Hals "e,le cou
+rupfte,rupften rupft rupfte hat gerupft, plumer
