@@ -1,4 +1,3 @@
-
 abends, abends,tous les soirs
 aufwachen, aufwachen wacht auf wachte auf ist aufgewacht, se réveiller
 baum, der Baum "e, l'arbre
@@ -8,11 +7,13 @@ bißen,beißen beißt biss hat gebissen,mordre
 brotkrusten,die Brotkruste -n,la croûte de pain
 brunnen, der Brunnen -, la fontaine
 brüderchen,das Brüderchen,le petit frère
+brüderlein, das Brüderlein -e, le petit frère
 brünnlein,der Brünnlein,la petite fontaine
 böse,böse,méchant
 dürstet,dürsten dürstet dürstete hat gedürstet, avoir soif
 einschliefen,einschlafen schläft ein schlief ein ist eingeschlafen,s'endormir
 erbarm,sich erbarmen,se dévouer
+fanden,finden findet fand hat gefunden,trouver
 feld,das Feld -er,le champ
 felder,das Feld -er,le champ
 fortgegangen,fortgehen geht fort ging fort ist fortgegangen,partir
@@ -21,6 +22,7 @@ füßen,der Fuß -"e,le pied
 geht,gehen geht ging ist gegangen,aller
 ging, gehen geht ging ist gegangen, aller
 gingen,gehen geht ging ist gegangen,aller
+glitzerig,glitzerig,scintillant
 gott,der Gott "er,le dieu
 großen,groß,grand
 hand,die Hand ¨e,la main
@@ -35,6 +37,7 @@ hohlen,hohl,creux
 holen, holen holt holte hat geholt,aller chercher
 hunger,der Hunger,la faim
 hört,hören hört hörte hat gehört,entendre
+hörte,hören hört hörte hat gehört, entendre
 hündlein,das Hündlein -,le petit chien
 jammer,der Jammer,le chagrin
 kam, kommen kommt kam ist gekommen,venir
@@ -54,6 +57,7 @@ schwesterchen,das Schwesterchen,la petite soeur
 sonne,die Sonne -n,le soleil
 speise,die  Speise -n,le repas
 sprach,sprechen spricht sprach hat gesprochen,parler
+sprang,springen springt sprang ist gesprungen,sauter
 stand,stehen steht stand hat gestanden,se tenir debout
 stein,der Stein -e,la pierre
 steine,der Stein -e,la pierre
@@ -62,14 +66,22 @@ stunde,die Stunde -n,l'heure
 stößt,stossen stößt stieß hat gestoßen,pousser
 tag,der Tag -e,la journée
 tage,der Tag -e,la journée
+tier,das Tier -e,l'annimal
+tiger, der Tiger -, le tigre
 tisch,der Tisch -e,la table
 tot,tot,décédé
+trink,trinken trinkt trank hat getrunken,boire
+trinken,trinken trinkt trank hat getrunken,boire
+trinkt,trinken trinkt trank hat getrunken,boire
 tränk, trinken trinkt trank hat getrunken, boire
+verwünscht,verwünscht,maudit
 wald,der Wald "er, la forêt
 walde,der Wald "er,la forêt
 weinen,weinen weint weinte hat geweint,pleurer
 weite,die Weite -n,l'immensité
 welt,die Welt -en,le monde
 wiesen,die Wiese -n,la prairie
+wildes,wild,sauvage
 wirft,werfen wirft warf hat geworfen,jeter
 wüsste,wissen weiß wusste hat gewusst,savoir
+zerreißest, zerreißen zerreißt zerriss hat zerrissen, déchirer

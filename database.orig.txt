@@ -72,4 +72,16 @@ heimlich,heimlich,secret
 hexen,die Hexe -n, la sorcière
 brunnen, der Brunnen -, la fontaine
 walde,der Wald "er,la forêt
-
+verwünscht,verwünscht,maudit
+fanden,finden findet fand hat gefunden,trouver
+glitzerig,glitzerig,scintillant
+sprang,springen springt sprang ist gesprungen,sauter
+trinken,trinken trinkt trank hat getrunken,boire
+hörte,hören hört hörte hat gehört, entendre
+trinkt,trinken trinkt trank hat getrunken,boire
+tiger, der Tiger -, le tigre
+brüderlein, das Brüderlein -e, le petit frère
+trink,trinken trinkt trank hat getrunken,boire
+wildes,wild,sauvage
+tier,das Tier -e,l'annimal
+zerreißest, zerreißen zerreißt zerriss hat zerrissen, déchirer
