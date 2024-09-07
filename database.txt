@@ -6,6 +6,7 @@ beissen,beißen beißt biss hat gebissen,mordre
 bissen,beißen beißt biss hat gebissen,mordre
 bißen,beißen beißt biss hat gebissen,mordre
 brotkrusten,die Brotkruste -n,la croûte de pain
+brunnen, der Brunnen -, la fontaine
 brüderchen,das Brüderchen,le petit frère
 brünnlein,der Brünnlein,la petite fontaine
 böse,böse,méchant
@@ -24,9 +25,11 @@ gott,der Gott "er,le dieu
 großen,groß,grand
 hand,die Hand ¨e,la main
 harten,hart,dur
+heimlich,heimlich,secret
 heiß,heiß,chaud
 herzen,das Herz -en,le coeur 
 hexe,die Hexe -n,la sorcière
+hexen,die Hexe -n, la sorcière
 himmel,der Himmel -,le ciel
 hohlen,hohl,creux
 holen, holen holt holte hat geholt,aller chercher
@@ -63,6 +66,7 @@ tisch,der Tisch -e,la table
 tot,tot,décédé
 tränk, trinken trinkt trank hat getrunken, boire
 wald,der Wald "er, la forêt
+walde,der Wald "er,la forêt
 weinen,weinen weint weinte hat geweint,pleurer
 weite,die Weite -n,l'immensité
 welt,die Welt -en,le monde
