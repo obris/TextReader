@@ -1,123 +1,308 @@
+abend,der Abend -e,le soir
 abends,abends,tous les soirs
+antwortete,antworten antwortet antwortete hat geanwortet,répondre
 arme,arm,pauvre
 aufwachen,aufwachen wacht auf wachte auf ist aufgewacht, se réveiller
+auge,das Auge -n,l'oeil
+aushalten,aushalten hält aus hielt aus hat ausgehalten,supporter
+bat,bitten bittet bat hat gebeten,demander
 baum,der Baum "e, l'arbre
+beeren,die Beere -n,la baie
+behänd,behänd,preste
 beissen,beißen beißt biss hat gebissen,mordre
+betrübnis,das Betrübnis -se,l'affliction
+binsen,die Binse -n, le jonc
+binsenseil,das Binsenseil -e,la longe
 bissen,beißen beißt biss hat gebissen,mordre
 bißen,beißen beißt biss hat gebissen,mordre
+blut,das Blut (Sg.),le sang
 brotkrusten,die Brotkruste -n,la croûte de pain
 brunnen,der Brunnen -,la fontaine
 brüderchen,das Brüderchen,le petit frère
 brüderlein,das Brüderlein -e,le petit frère
 brünnlein,der Brünnlein,la petite fontaine
+bäume,der Baum "e,l'arbre
 böse,böse,méchant
+dachte,denken denkt dachte hat gedacht,penser
+dauerte,dauern dauert dauerte hat gedauert,durer
+derentwillen,derentwillen,pour qui
+draußen,draußen,dehors
 dritten,der Dritte -n,le troisième
+dunkel,dunkel,sombre
 durst,der Durst (Sg),la soif
 dürstet,dürsten dürstet dürstete hat gedürstet,avoir soif
+einholen,einholen holt ein holte ein hat eingeholt,rattraper
+einschlief,einschlafen schläft ein schlief ein ist eingeschlafen,s'endormir
 einschliefen,einschlafen schläft ein schlief ein ist eingeschlafen,s'endormir
+einwilligte,einwilligen willigt ein willigte ein hat eingewilligt,donner son accord
 endlich,endlich,finalement
 erbarm,sich erbarmen,se dévouer
+erblickte,erblicken erblickt erblickte hat erblickt
+erschrak,erschrecken erschreckt erschreckte hat erschreckt,effrayé
+erzählte,erzählen erzählt erzählte hat erzählt,raconter
 fanden,finden findet fand hat gefunden,trouver
+fehlen,fehlen fehlt fehlte hat gefehlt, manquer
 feld,das Feld -er,le champ
 felder,das Feld -er,le champ
+flocht,flechten flicht flocht hat geflochten,tresser
 fortgegangen,fortgehen geht fort ging fort ist fortgegangen,partir
+fortlief,fortlaufen läuft fort lief fort ist fortgelaufen,s'échapper
+fraß,fressen frisst fraß hat gefressen,manger (animal)
+freundlich,freundlich,aimable
 frisst,fressen frisst fraß hat gefressen,manger (animal)
+fröhlich,fröhlich,joyeux
 fuß,der Fuß -"e,le pied
+führte,führen führt führte hat geführt,guider
 füßen,der Fuß -"e,le pied
+gebet,das Gebet -e,la prière
+gebührt,gebühren gebührt gebührte hat gebührt,mériter
+gebüsch,das Gebüsch -e,le buisson
+gedanken,der Gedanke -n,la pensée
+gefeiert,feiern feiert feierte hat gefeiert,faire la fête
+gegangen,gehen geht ging ist gegangen,aller
+geh,gehen geht ging ist gegangen,aller
 geht,gehen geht ging ist gegangen,aller
+gehört,hören hört hörte hat gehört,écouter
+gejagt,jagen jagt jagte hat gejagt,chasser
+gepflegt,pflegen pflegt pflegte hat gepflegt,soigner
+gering,gering,insignifiant
+gerne,gerne,volontiers
+geschrei,das Geschrei (Sg.),les cris
+gestalt,die Gestalt -en,la créature
+gesund,gesund,en bonne santé
 getrunken,trinken trinkt trank hat getrunken,boire
+gewaltig,gewaltig,énorme
 ging,gehen geht ging ist gegangen,aller
 gingen,gehen geht ging ist gegangen,aller
 glitzerig,glitzerig,scintillant
+glück, das Glück (Sg.),la chance
+glücklich,glücklich,heureux
+goldene,golden,en or
+goldenen,golden,en or
 goldenes,golden,en or
 gott,der Gott "er,le dieu
+gras,das Gras "er,l'herbe
 groß,groß,grand
+große,groß,grand
 großen,groß,grand
+großer,groß,grand
 hals,der Hals "e,le cou
+halsband,das Halsband "er,le collier
 hand,die Hand ¨e,la main
 harten,hart,dur
+haupt,der Haupt "er,la tête
+haus,das Haus "er,la maison
+hegt,hegen hegt hegte hat gehegt,prendre soin
+heil,heil,être sain et sauf
 heimlich,heimlich,secret
 heiß,heiß,chaud
+hereinkam,hereinkommen kommt herein kam herein ist hereingekommen,entrer
+hereinspringen,hereinspringen springt herein sprang herein ist hereingesprungen
+herrliches,herrlich,magnifique
 herzen,das Herz -en,le coeur 
 hexe,die Hexe -n,la sorcière
 hexen,die Hexe -n,la sorcière
+hielt,halten hält hielt hat gehalten,tenir
+hiftorn,das Hifthorn "er, le cor de chasse
 himmel,der Himmel -,le ciel
 hinabgebeugt,sich beugen beugt sich beugte sich hat sich gebeugt,se pencher
+hinaus,hinaus,vers l'extérieur
+hineingegangen,hineingehen geht hinein ging hinein ist hineingegangen,entrer
+hinken,hinken hinkt hinkte hat gehinkt, boiter
+hochzeit,die Hochzeit -en,le mariage
 hohlen,hohl,creux
 holen,holen holt holte hat geholt,aller chercher
+hundegebell,das Hundegebell,l'aboiement
 hunger,der Hunger,la faim
+hässlich,hässlich,moche
+häuschen,das Häuschen -,la petite maison
+höre,hören hört hörte hat gehört,écouter
+hörnerblasen,das Hörnerblasen,le son du cor
 hört,hören hört hörte hat gehört,entendre
 hörte,hören hört hörte hat gehört,entendre
 hündlein,das Hündlein -,le petit chien
+jadglust,die Jagdlust,l'envie de chasser
+jagd,die Jagd -en,la chasse
+jagt,jagen jagt jagte hat gejagt,chasser
+jagten,jagen jagt jagte hat gejagt,chasser
 jammer,der Jammer,le chagrin
+jäger,der Jäger -,le chasseur
+jägern,der Jäger -,le chasseur
 kam,kommen kommt kam ist gekommen,venir
 kamen,kommen kommt kam ist gekommen,venir
 kamst,kommen kommt kam ist gekommen,venir
+kenne,kennen kennt kannte hat gekannt,connaître
 kinder,das Kind -er,l'enfant
+kissen,das Kissen -,le coussin
+kleine,klein,petit
+klopf,klopfen klopft klopfte hat geklopft,frapper
+klopfte,klopfen klopft klopfte hat geklopft,frapper 
 komm,kommen kommt kam ist gekommen,venir
+kopf, der Kopf "e,la tête
+kriegen,kriegen kriegt kriegte hat gekriegt,recevoir
+krone,die Krone -n,la couronne
+kräuter,das Kraut "er,la fane
+könig,der König -e,le roi
+königin,die Königin -nen,la reine
+lager,das Lager -,le camp
+landes,das Land "er,le pays
+lang,lang,long
+lange,lang,long
 langen,langen langt langte hat gelangt,suffire
+lass,lassen lässt ließ hat gelassen,laisser
+laub,das Laub (Sg.),le feuillage
+leben,das Leben -,la vie
+lebst,leben lebt lebte hat gelebt, vivre
+lebten,leben lebt lebte hat gelebt,vivre
+lieb,lieb,gentil
 liebes,lieb,gentil
+lief,laufen läuft lief ist gelaufen,courir
+ließen,lassen lässt ließ hat gelassen,laisser
 lippen,die Lippe -n,la lèvre
+luft,die Luft "e,l'air
+lustig,lustig,amusant
+lustige,lustig,amusant
+länger,länger,davantage
 läufst,laufen läuft lief ist gelaufen,marcher
+mach,machen macht machte hat gemacht, faire
+meinte,meinen meint meinte hat gemeint,penser
+meinten,meinen meint meinte hat gemeint,penser
+menschliche,menschlich,humain
+missgunst,die Missgunst,l'amertume
+moos, das Moos -e, la mousse
 mutter,die Mutter ",la mère
 mädchen,das Mädchen -,la fille
 müde,müde,fatigué
 nachgeschlichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
+neid,der Neid (Sg.),la jalousie
 niedergekniet,niederknien kniet nieder kniete nieder hat niedergekniet,agenouiller
 nimmermehr,nimmermehr,plus jamais
 nächsten,nächsten,le plus proche
+nüsse,die Nuss "e,la noix
+pferd,das Pferd -e,le cheval
+pracht,die Pracht (Sg.),la splendeur
 quelle,die Quelle -n,la source
 rauschen,rauschen rauscht rauschte hat gerauscht,grésiller
+rege,rege,intense
 regnete,regnen regnet regnete hat geregnet,pleuvoir
 reh,das Reh -e,le chevreuil
 rehchen, das Rehchen -,le faon
+rehkalb,das Rehkalb "er,le faon
 rehkälbchen,das Rehkälbchen -,le faon
+rehkälbchens,das Rehkälbchen -,le faon
+rehlein,das Rehlein -e,le faon
+reichte,reichen reicht reichte hat gereicht,tendre
+ruhe,die Ruhe (Sg.),le calme
+ruhte,ruhen ruht ruhte hat geruht,se reposer
 rupfte,rupfen rupft rupfte hat gerupft, plumer
+rücken,der Rücken -,le dos
+sah,sehen sieht sah hat gesehen,voir
+sahen,sehen sieht sah hat gesehen,voir
+sammelte,sammeln sammelt sammelte hat gesammelt,cueillir
+sanft,sanft,doux
 saß,sitzen sitzt saß hat gesessen,être assis
+schallte,schallen schallt schallte hat geschallt,résonner
+schaute,schauen schaut schaute hat geschaut,regarder
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
+schlich,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
+schließ,schließen schließt schloss hat geschlossen,fermer
+schloss,schließen schließt schloss hat geschlossen,fermer
+schlossgarten,der Schlossgarten,le jardin du château
 schlägt,schlagen schlägt schlug hat geschlagen,frapper
+schuhen,der Schuh -en,la chaussure
+schwerem,schwer,lourd
 schwesterchen,das Schwesterchen,la petite soeur
 schwesterlein,das Schwesterlein -e,la petite soeur
+schön,schön,beau
+schöne,schön,beau
+seil,das Seil -e,la corde
+sinn,der Sinn -e,le sens
 sonne,die Sonne -n,le soleil
 speise,die Speise -n,le repas
+spielte,spielen spielt spielte hat gespielt,jouer
 sprach,sprechen spricht sprach hat gesprochen,parler
 sprang,springen springt sprang ist gesprungen,sauter
+sprich,sprechen spricht sprach hat gesprochen,parler
+sprichst,sprechen spricht sprach hat gesprochen,parler
+springen,springen springt sprang ist gesprungen,sauter
+sprüchlein,das Sprüchlein -e,le petit dicton
+spürte,spüren spürt spürte hat gespürt,sentir
 stand,stehen steht stand hat gestanden,se tenir debout
 stein,der Stein -e,la pierre
 steine,der Stein -e,la pierre
+sterbe,sterben stirbt starb ist gestorben, mourir
 stiefmutter,die Stiefmutter ",la belle-mère
 still,still,calme
 strumpfband,das Strumpfband "er,la jarretière
 stunde,die Stunde -n,l'heure
 stößt,stossen stößt stieß hat gestoßen,pousser
+suchte,suchen sucht suchte hat gesucht,chercher
 tag,der Tag -e,la journée
 tage,der Tag -e,la journée
+tiefer,tiefer,plus profond
 tier,das Tier -e,l'annimal
+tierchen,das Tierchen -,le petit animal
+tieren,das Tier -e,l'animal
 tiger,der Tiger -,le tigre
 tisch,der Tisch -e,la table
+tochter,die Tochter ",la fille
 tot,tot,décédé
+totschiessen,totschießen,abattre
+totschießen,totschießen,abattre
 trank,trinken trinkt trank hat getrunken,boire
+trat,treten tritt trat hat getreten,s'avancer
 traurig,traurig,triste
 trink,trinken trinkt trank hat getrunken,boire
 trinken,trinken trinkt trank hat getrunken,boire
 trinkt,trinken trinkt trank hat getrunken,boire
 tropfen,tropfen tropft tropfte hat getropft,goutter
 tränk,trinken trinkt trank hat getrunken,boire
+töten,töten tötet tötete hat getötet,tuer
+tür,die Tür -en,la porte
+türe,die Tür -en,la porte
+türlein,das Türlein,la petite porte
+umzingelt,umzingeln umzingelt umzingelte hat umzingelt,entourer
+unglück,das Unglück -e,le malheur
+untergegangen,untergehen geht unter ging unter ist untergegangen,sombrer
+vergnügt,vergnügt,réjoui
+verlass,verlassen verlässt verließ hat verlassen,quitter
 verlassen, verlassen verlässt verließ hat verlassen,quitter
+verschwunden,verschwinden verschwindet verschwand ist verschwunden,disparaître
+verwundet,verwunden verwundet verwundete hat verwundet,blesser
+verwundete,verwunden verwundet verwundete hat verwundet,blesser
 verwünscht,verwünscht,maudit
 verwünschte,verwünscht,maudit
+vorwürfe,der Vorwurf -e,le reproche
 wald,der Wald "er,la forêt
 walde,der Wald "er,la forêt
+waldhäuschen,das Waldhäuschen,la petite maison de la forêt
 warten,warten wartet wartete hat gewartet,attendre
 wasser,das Wasser ",l'eau
+weichen,weich,moelleux
+weiches,weich,doux
 weinen,weinen weint weinte hat geweint,pleurer
 weinte,weinen weint weinte hat geweint,pleurer
 weite,die Weite -n,l'immensité
 welt,die Welt -en,le monde
 wiesen,die Wiese -n,la prairie
+wilden,wild,sauvage
 wildes,wild,sauvage
+wildnis,die Wildnis,la contrée sauvage
 wirft,werfen wirft warf hat geworfen,jeter
+wohlgehen,das Wohlgehen,le bien-être
+wohnen,wohnen wohnt wohnte hat gewohnt,habiter
 wolf,der Wolf ë,le loup
+wunde,die Wunde -n,la blessure
+wurzeln,die Wurzel -n,la racine
+wusch,waschen wäscht wusch hat gewaschen,nettoyer
+währte,wahren wahrt wahrte hat gewahrt,préserver
 wüsste,wissen weiß wusste hat gewusst,savoir
+zartes,zart,délicat
+zeige,zeigen zeigt zeigte hat gezeigt,montrer
+zeit,die Zeit -en,le temps
 zerreißest,zerreißen zerreißt zerriss hat zerrissen,déchirer
+zerrissen,zerrissen,déchiré
+zugeschlossen,zuschließen schließt zu schloss zu hat zugeschlossen,fermer à clé
+zuleide,zuleide,faire du mal
 zweiten,der Zweite -n,le deuxième
+öffnete,öffnen öffnet öffnete hat geöffnet,ouvrir

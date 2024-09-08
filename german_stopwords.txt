@@ -819,6 +819,7 @@ hinterher
 hinterm
 hintern
 hinunter
+ho
 hoch
 höchst
 höchstens
@@ -946,6 +947,7 @@ junges
 kaeumlich
 kam
 kann
+kanns
 kannst
 kaum
 käumlich
@@ -957,6 +959,7 @@ keiner
 keinerlei
 keines
 keineswegs
+keins
 klar
 klare
 klaren
@@ -1686,6 +1689,7 @@ während
 währenddessen
 wann
 war
+ward
 wär
 wäre
 waren
