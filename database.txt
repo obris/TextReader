@@ -72,7 +72,7 @@ regnete,regnen regnet regnete hat geregnet,pleuvoir
 reh,das Reh -e,le chevreuil
 rehchen, das Rehchen -,le faon
 rehkälbchen,das Rehkälbchen -,le faon
-rupfte,rupften rupft rupfte hat gerupft, plumer
+rupfte,rupfen rupft rupfte hat gerupft, plumer
 saß,sitzen sitzt saß hat gesessen,être assis
 schleichen,schleichen schleicht schlich ist geschlichen,se déplacer furtivement
 schlägt,schlagen schlägt schlug hat geschlagen,frapper

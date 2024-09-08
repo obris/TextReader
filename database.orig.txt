@@ -120,4 +120,4 @@ verlassen, verlassen verlässt verließ hat verlassen,quitter
 goldenes,golden,en or
 strumpfband,das Strumpfband "er,la jarretière
 hals,der Hals "e,le cou
-rupfte,rupften rupft rupfte hat gerupft, plumer
+rupfte,rupfen rupft rupfte hat gerupft, plumer
